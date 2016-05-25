@@ -1,0 +1,6 @@
+framework module Pods_mrt {
+  umbrella header "Pods-mrt-umbrella.h"
+
+  export *
+  module * { export * }
+}
